@@ -1,7 +1,5 @@
 The dataset contains customer-level information collected from an online food ordering platform.
 
----
-
 ## Exploratory Data Analysis (EDA)
 The following analyses were performed:
 - Age distribution analysis
@@ -37,8 +35,6 @@ The model was evaluated using:
 - F1-score
 - Confusion Matrix
 
----
-
 ## Technologies Used
 - Python
 - Pandas
@@ -46,7 +42,3 @@ The model was evaluated using:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
----
-
-## 📁 Project Structure
